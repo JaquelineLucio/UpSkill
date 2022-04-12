@@ -34,12 +34,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DBAPI">
-      <HintPath>..\..\..\Documents\NET C\DBAPI\DBAPI.dll</HintPath>
+      <HintPath>..\DBAPI\DBAPI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.SQLite">
-      <HintPath>..\..\..\Documents\NET C\DBAPI\System.Data.SQLite.dll</HintPath>
+      <HintPath>..\DBAPI\System.Data.SQLite.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
