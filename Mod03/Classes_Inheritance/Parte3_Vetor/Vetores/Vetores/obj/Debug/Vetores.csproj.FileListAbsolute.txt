@@ -1,0 +1,8 @@
+C:\Users\jpluc\OneDrive\Documents\UpSkill\Mod3\Classes_Inheritance\Classes_Inheritance\Parte3_Vetor\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\jpluc\OneDrive\Documents\UpSkill\Mod3\Classes_Inheritance\Classes_Inheritance\Parte3_Vetor\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\jpluc\OneDrive\Documents\UpSkill\Mod3\Classes_Inheritance\Classes_Inheritance\Parte3_Vetor\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\jpluc\OneDrive\Documents\UpSkill\Mod3\Classes_Inheritance\Classes_Inheritance\Parte3_Vetor\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\jpluc\OneDrive\Documents\UpSkill\Mod3\Classes_Inheritance\Classes_Inheritance\Parte3_Vetor\Vetores\Vetores\obj\Debug\Vetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpluc\OneDrive\Documents\UpSkill\Mod3\Classes_Inheritance\Classes_Inheritance\Parte3_Vetor\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\jpluc\OneDrive\Documents\UpSkill\Mod3\Classes_Inheritance\Classes_Inheritance\Parte3_Vetor\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\jpluc\OneDrive\Documents\UpSkill\Mod3\Classes_Inheritance\Classes_Inheritance\Parte3_Vetor\Vetores\Vetores\obj\Debug\Vetores.pdb
